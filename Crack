@@ -1,4 +1,5 @@
--- thx pp021#9092 (708198820995006475) for this code
+_G.Key="https://www.ayee.shop/shop"
+
 if KRNL_LOADED then
   getgenv().KRNL_LOADED = nil
   getgenv().KRNL_SAFE_CALL = nil
