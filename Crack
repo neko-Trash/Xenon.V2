@@ -23,4 +23,6 @@ elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 t
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Larinax999/leak/main/khemtitgamerHUB-KL.lua"))()
 elseif PlaceId == 10321372166 or PlaceId == 6284583030 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Larinax999/leak/main/khemtitgamerHUB-PETSIMX.lua"))()
+elseif PlaceId == 8908228901 or PlaceId == 3351674303 or Placeld == 142823291 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Larinax999/leak/main/Esanv2.lua"))()
 end
